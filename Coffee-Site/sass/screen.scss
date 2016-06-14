@@ -3,4 +3,45 @@
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
-@import "compass/reset";
+//@import "compass/reset";
+
+$bg-color: #2c3e50;
+$hover-color: #16a085;
+$text-color: #ffffff;
+
+nav{
+
+  ul{
+    background: $bg-color;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  li{
+    display: inline-block;
+  }
+  a{
+    color: $text-color;
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+  }
+  a:hover{
+    background: $hover-color;
+  }
+}
+hr{
+  section{
+    div{
+      h3{
+        a{
+          color: $text-color;
+          text-decoration: none;
+        }
+        a:hover{
+          background: $hover-color;
+        }
+      }
+    }
+  }
+}
