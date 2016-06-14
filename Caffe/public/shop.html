@@ -3,6 +3,15 @@
 <head>
 <title>Shop our collection</title>
     <link rel="stylesheet" type="text/css" href="stylesheets/sass/screen.css">
+    <script src=https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    <script src="javascripts/jquery-3.0.0.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("p").click(function(){
+                $(this).hide();
+            });
+        });
+    </script>
 </head>
 
 <nav>
@@ -16,7 +25,8 @@
 </nav>
 
 <body>
-<h2>Here's where you can shop our brews.</h2>
+<h2>Here's where you can shop our brews.<button type="button">Click Me!</button></h2>
+<p>Click me.</p>
 <hr>
 
 <section>
