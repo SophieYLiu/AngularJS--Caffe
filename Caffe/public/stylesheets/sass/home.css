@@ -1,4 +1,10 @@
 h1 {
-  color: #ffffff; }
+  color: #ffffff;
+  padding: 100px; }
+
+#divspecs {
+  padding: 10px;
+  margin-right: 25%;
+  margin-left: 25%; }
 
 /*# sourceMappingURL=home.css.map */

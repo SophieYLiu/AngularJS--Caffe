@@ -3,10 +3,9 @@
  */
 $(document).ready(function(){
     $("h1").hide().fadeIn(2000);
-    $("#buttonhome").hide().fadeIn(4000);
-    $("#buttonhome").click(function(){
-        $("#divspecs").load("README.md").css("color", "#ffffff");
-        $("#buttonhome").click(function(){
+    $("h1").click(function(){
+        $("#divspecs").fadeIn(1000).load("README.md").css("color", "#ffffff");
+        $("h1").click(function(){
             $("#divspecs").fadeOut();
         })
     })

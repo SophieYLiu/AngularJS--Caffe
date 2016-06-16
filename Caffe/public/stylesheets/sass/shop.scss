@@ -1,15 +1,78 @@
+$bg-color: #2c3e50;
+$hover-color: #009aa0;
+$text-color: #ffffff;
+$hover-color2: #a1a4aa;
+
+nav{
+
+  ul{
+    background: $bg-color;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+  }
+  li{
+    display: inline-block;
+  }
+  a{
+    color: $text-color;
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+  }
+  a:hover{
+    background: $hover-color;
+  }
+}
+
 body {
-    div {
+  font-family: "Tw Cen MT", sans-serif;
+  coffee-list {
     }
-    coffee-list {
-      padding: 20px;
-      div {
-        padding: 10px;
+  img{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+  }
+    div{
+      #coffee{
+        padding: 35px;
+      }
+      .coffee{
+        text-align: right;
+        text-decoration: none;
+      }
+      a{
+        padding-bottom: 20px;
+        color: $hover-color;
+        float: right;
       }
     }
+    #coffee:hover{
+      background-color: #ff601a;
+      opacity: 0.65;
+    }
   }
+.bgimg {
+  opacity: 0.9;
+  position: relative;
+}
 #main {
   background-color: #eeeeee;
   margin-right: 250px;
   margin-left: 250px;
+}
+.thumbnail {
+    position: relative;
+    overflow: hidden;
+    align-items: left;
+    height: 20%;
+    width: 20%;
+}
+#search{
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
 }

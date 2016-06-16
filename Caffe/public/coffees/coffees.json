@@ -2,61 +2,73 @@
   {
     "name": "Java Time",
     "description": "Java Time is the creme de la creme of Indonesian coffees.",
-    "roast": "Medium"
+    "roast": "Medium",
+    "imageUrl": "images/coffeebag.jpg"
   },
   {
-  "name": "Express Espresso",
-  "description": "Express will give you he jolt you need at 2pm.",
-  "roast": "Dark"
-},
+    "name": "Express Espresso",
+    "description": "Express will give you he jolt you need at 2pm.",
+    "roast": "Dark",
+    "imageUrl": "images/coffeebag2.jpg"
+  },
   {
-  "name": "Morning Jo",
-  "description": "One of our most popular morning brews.",
-  "roast": "Light"
-},
+    "name": "Morning Jo",
+    "description": "One of our most popular morning brews.",
+    "roast": "Light",
+    "imageUrl": "images/coffeebag3.jpg"
+  },
   {
-  "name": "Exquisite Roast",
-  "description": "Shade grown and delicious.",
-  "roast": "Medium"
-},
+    "name": "Exquisite Roast",
+    "description": "Shade grown and delicious.",
+    "roast": "Medium",
+    "imageUrl": "images/coffeebag4.jpg"
+  },
   {
-  "name": "Guatemalan",
-  "description": "From the rich mountains of Latin America.",
-  "roast": "Light"
-},
+    "name": "Guatemalan",
+    "description": "From the rich mountains of Latin America.",
+    "roast": "Light",
+    "imageUrl": "images/coffeebag5.jpg"
+  },
   {
-  "name": "Madagascar",
-  "description": "Straight from the island.",
-  "roast": "Dark"
-},
+    "name": "Madagascar",
+    "description": "Straight from the island.",
+    "roast": "Dark",
+    "imageUrl": "images/coffeebag6.jpg"
+  },
   {
     "name": "Rise and Shine",
     "description": "A blend from the hills of Hawaii.",
-    "roast": "Light"
+    "roast": "Light",
+    "imageUrl": "images/coffeebag7.jpg"
   },
   {
     "name": "Breakfast Blend",
     "description": "An unforgettable cup.",
-    "roast": "Medium"
+    "roast": "Medium",
+    "imageUrl": "images/coffeebag8.jpg"
   },
   {
     "name": "Chocolate Heavan",
     "description": "Aromas of citrus and cacao.",
-    "roast": "Light"
+    "roast": "Light",
+    "imageUrl": "images/coffeebag9.jpg"
   },
   {
     "name": "Quito Tradicional",
     "description": "Andean coffee from Ecuador.",
-    "roast": "Dark"
+    "roast": "Dark",
+    "imageUrl": "images/coffeebag10.jpg"
   },
   {
     "name": "Peruvian",
     "description": "Volcanic soil grows some of the best coffee around.",
-    "roast": "Light"
+    "roast": "Light",
+    "imageUrl": "images/coffeebag11.jpg"
   },
   {
     "name": "Vietnamese Robusta",
     "description": "An earthy, delicious cup.",
-    "roast": "Dark"
+    "roast": "Dark",
+    "imageUrl": "images/coffeebag12.jpg"
   }
 ]
