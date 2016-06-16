@@ -1,4 +1,6 @@
-<div ng-repeat="coffee in $ctrl.coffees">
-    <span><strong>{{coffee.name}}</strong></span>
+<div>Search: <input ng-model="$ctrl.query" /></div>
+<div ng-repeat="coffee in $ctrl.coffees | filter:$ctrl.query">
+    <h3>{{coffee.name}}</h3>
     <p>{{coffee.description}}</p>
+    <p>Roast: {{coffee.roast}}</p>
 </div>

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Java Time",
+    "description": "Java Time is the creme de la creme of Indonesian coffees.",
+    "roast": "Medium"
+  },
+  {
+  "name": "Express Espresso",
+  "description": "Express will give you he jolt you need at 2pm.",
+  "roast": "Dark"
+},
+  {
+  "name": "Morning Jo",
+  "description": "One of our most popular morning brews.",
+  "roast": "Light"
+},
+  {
+  "name": "Exquisite Roast",
+  "description": "Shade grown and delicious.",
+  "roast": "Medium"
+},
+  {
+  "name": "Guatemalan",
+  "description": "From the rich mountains of Latin America.",
+  "roast": "Light"
+},
+  {
+  "name": "Madagascar",
+  "description": "Straight from the island.",
+  "roast": "Dark"
+},
+  {
+    "name": "Rise and Shine",
+    "description": "A blend from the hills of Hawaii.",
+    "roast": "Light"
+  },
+  {
+    "name": "Breakfast Blend",
+    "description": "An unforgettable cup.",
+    "roast": "Medium"
+  },
+  {
+    "name": "Chocolate Heavan",
+    "description": "Aromas of citrus and cacao.",
+    "roast": "Light"
+  },
+  {
+    "name": "Quito Tradicional",
+    "description": "Andean coffee from Ecuador.",
+    "roast": "Dark"
+  },
+  {
+    "name": "Peruvian",
+    "description": "Volcanic soil grows some of the best coffee around.",
+    "roast": "Light"
+  },
+  {
+    "name": "Vietnamese Robusta",
+    "description": "An earthy, delicious cup.",
+    "roast": "Dark"
+  }
+]
