@@ -9,10 +9,14 @@ $(document).ready(function(){
     $("img").hide();
     $("img").fadeIn(2000);
 
-    $("#img1").click(function(){
-        $("#p1").fadeIn();
+    $("#img1").hover(function(){
+        $("#p1").show();
         $("#div1").css("background-color", "#eeeeee");
+    }, function(){
+        $("#p1").hide();
+        $("#div1").css("background-color", "#ffffff");
     })
+    
     $("#img2").click(function(){
         $("#p2").fadeIn();
         $("#div2").css("background-color", "#eeeeee");

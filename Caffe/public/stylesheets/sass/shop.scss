@@ -43,7 +43,7 @@ body {
         }
         a {
           padding-right: 30px;
-          color: $bg-color;
+          color: $hover-color;
           float: right;
         }
       }
@@ -59,8 +59,8 @@ body {
 }
 #main {
   background-color: #eeeeee;
-  margin-right: 250px;
-  margin-left: 250px;
+  margin-right: 350px;
+  margin-left: 350px;
 }
 .thumbnail {
     position: relative;

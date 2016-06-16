@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Frank's Farm",
+    "location": "Cochabamba, Bolivia",
+    "practice": "Organic, sustainable",
+    "imageUrl": ""
+  },
+  {
+    "name": "Nomad Farm",
+    "location": "Recife, Brazil",
+    "practice": "Cultured",
+    "imageUrl": ""
+  },
+  {
+    "name": "Green Acres",
+    "location": "Tijuana, Mexico",
+    "practice": "Organic",
+    "imageUrl": ""
+  }
+]

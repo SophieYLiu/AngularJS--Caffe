@@ -28,7 +28,7 @@ body {
       text-decoration: none; }
     body coffee-list div a {
       padding-right: 30px;
-      color: #2c3e50;
+      color: #009aa0;
       float: right; }
   body coffee-list #cmain:hover {
     background-color: #ff601a;
@@ -40,8 +40,8 @@ body {
 
 #main {
   background-color: #eeeeee;
-  margin-right: 250px;
-  margin-left: 250px; }
+  margin-right: 350px;
+  margin-left: 350px; }
 
 .thumbnail {
   position: relative;

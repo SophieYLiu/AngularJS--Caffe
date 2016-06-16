@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="caffeApp">
 <head>
 <title>Sources</title>
     <link rel="stylesheet" type="text/css" href="stylesheets/sass/screen.css">
@@ -7,6 +7,8 @@
     <script src="javascripts/sources.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
     <script src="javascripts/app.module.js"></script>
+    <script src="javascripts/sources-list/sources-list.module.js"></script>
+    <script src="javascripts/sources-list/sources-list.component.js"></script>
 </head>
 
 <nav>
@@ -22,7 +24,7 @@
 <body>
 <h3>Discover our #Caffe Sources.</h3>
 <hr>
-
+<sources-list></sources-list>
 <section>
     <div id="div1">
         <img id="img1" src="images/source1.jpg">

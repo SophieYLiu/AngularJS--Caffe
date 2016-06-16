@@ -1,0 +1,7 @@
+
+<div ng-repeat="source in $ctrl.sources">
+    <img class="thumbnail" ng-src="{{source.imageUrl}}" alt="{{source.name}}">
+    <a href="#/{{source.name}}">{{source.name}}</a>
+    <div><strong>{{source.location}}</strong></div>
+    <p>Practice: {{source.practice}}</p>
+</div>
