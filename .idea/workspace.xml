@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="238665ac-5b4d-4a7f-b5a3-f757fa998517" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Caffe/public/images/coffeebag7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Caffe/public/images/coffeebags2.jpg" afterPath="$PROJECT_DIR$/Caffe/public/images/coffeebag2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/images/coffeebag.jpg" afterPath="$PROJECT_DIR$/Caffe/public/images/coffeebag.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/images/coffeebag3.jpg" afterPath="$PROJECT_DIR$/Caffe/public/images/coffeebag3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/images/coffeebag4.jpg" afterPath="$PROJECT_DIR$/Caffe/public/images/coffeebag4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/images/coffeebag5.jpg" afterPath="$PROJECT_DIR$/Caffe/public/images/coffeebag5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Caffe/public/app.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Caffe/public/coffeeDetail.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/about.html" afterPath="$PROJECT_DIR$/Caffe/public/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/coffees/coffees.json" afterPath="$PROJECT_DIR$/Caffe/public/coffees/coffees.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/contact.html" afterPath="$PROJECT_DIR$/Caffe/public/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/index.html" afterPath="$PROJECT_DIR$/Caffe/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/javascripts/about.js" afterPath="$PROJECT_DIR$/Caffe/public/javascripts/about.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/javascripts/coffee-list/coffee-list.template.html" afterPath="$PROJECT_DIR$/Caffe/public/javascripts/coffee-list/coffee-list.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/javascripts/home.js" afterPath="$PROJECT_DIR$/Caffe/public/javascripts/home.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/javascripts/shop.js" afterPath="$PROJECT_DIR$/Caffe/public/javascripts/shop.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/shop.html" afterPath="$PROJECT_DIR$/Caffe/public/shop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/sources.html" afterPath="$PROJECT_DIR$/Caffe/public/sources.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/stylesheets/sass/home.css" afterPath="$PROJECT_DIR$/Caffe/public/stylesheets/sass/home.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/stylesheets/sass/home.css.map" afterPath="$PROJECT_DIR$/Caffe/public/stylesheets/sass/home.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/stylesheets/sass/home.scss" afterPath="$PROJECT_DIR$/Caffe/public/stylesheets/sass/home.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/stylesheets/sass/shop.css" afterPath="$PROJECT_DIR$/Caffe/public/stylesheets/sass/shop.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/stylesheets/sass/shop.css.map" afterPath="$PROJECT_DIR$/Caffe/public/stylesheets/sass/shop.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Caffe/public/stylesheets/sass/shop.scss" afterPath="$PROJECT_DIR$/Caffe/public/stylesheets/sass/shop.scss" />
@@ -48,18 +33,18 @@
       <file leaf-file-name="shop.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Caffe/public/shop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="96" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="coffee-list.template.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="coffee-list.template.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Caffe/public/javascripts/coffee-list/coffee-list.template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="92" selection-start-line="4" selection-start-column="92" selection-end-line="4" selection-end-column="92" />
+            <state relative-caret-position="102">
+              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -75,11 +60,43 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="coffee-list.component.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Caffe/public/javascripts/coffee-list/coffee-list.component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="shop.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Caffe/public/stylesheets/sass/shop.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+            <state relative-caret-position="487">
+              <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coffeeDetail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Caffe/public/coffeeDetail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Caffe/public/javascripts/app.module.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,10 +108,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jade File" />
-        <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="SCSS File" />
         <option value="tsconfig.json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -137,8 +154,11 @@
         <option value="$PROJECT_DIR$/Caffe/public/contact.html" />
         <option value="$PROJECT_DIR$/Caffe/public/javascripts/shop.js" />
         <option value="$PROJECT_DIR$/Caffe/public/shop.html" />
-        <option value="$PROJECT_DIR$/Caffe/public/stylesheets/sass/shop.scss" />
         <option value="$PROJECT_DIR$/Caffe/public/javascripts/coffee-list/coffee-list.template.html" />
+        <option value="$PROJECT_DIR$/Caffe/public/app.config.js" />
+        <option value="$PROJECT_DIR$/Caffe/public/coffeeDetail.html" />
+        <option value="$PROJECT_DIR$/Caffe/public/stylesheets/sass/shop.scss" />
+        <option value="$PROJECT_DIR$/Caffe/public/javascripts/app.module.js" />
       </list>
     </option>
   </component>
@@ -317,6 +337,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coffee-list" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Business-Site-JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Business-Site-JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Caffe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="coffees" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -422,12 +468,12 @@
       <workItem from="1466016755499" duration="6788000" />
       <workItem from="1466086558650" duration="164000" />
       <workItem from="1466087085512" duration="11672000" />
-      <workItem from="1466101977450" duration="10876000" />
+      <workItem from="1466101977450" duration="12808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46881000" />
+    <option name="totallyTimeSpent" value="48813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-1350" width="1540" height="1309" extended-state="0" />
@@ -488,22 +534,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Caffe/public/sources.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Caffe/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Coffee-Site/about.html" />
     <entry file="file://$PROJECT_DIR$/Coffee-Site/sass/screen.scss" />
     <entry file="file://$PROJECT_DIR$/Coffee-Site/sass/print.css" />
@@ -640,36 +670,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Caffe/public/javascripts/coffee-list/coffee-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Caffe/public/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Caffe/public/coffees/coffees.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Caffe/public/javascripts/app.module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -732,14 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Caffe/public/javascripts/shop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Caffe/public/stylesheets/sass/screen.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -748,27 +744,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Caffe/public/coffees/coffees.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Caffe/public/javascripts/shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Caffe/public/stylesheets/sass/shop.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state relative-caret-position="487">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Caffe/public/app.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Caffe/public/coffeeDetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Caffe/public/javascripts/app.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Caffe/public/shop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="96" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Caffe/public/javascripts/coffee-list/coffee-list.template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="92" selection-start-line="4" selection-start-column="92" selection-end-line="4" selection-end-column="92" />
+        <state relative-caret-position="102">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Caffe/public/javascripts/coffee-list/coffee-list.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,8 +1,8 @@
 <div id="search" align="right">Search: <input ng-model="$ctrl.query" /></div>
 
-<div ng-repeat="coffee in $ctrl.coffees | filter:$ctrl.query" id="coffee">
+<div ng-repeat="coffee in $ctrl.coffees | filter:$ctrl.query" id="cmain">
         <img align="left" class="thumbnail" ng-src="{{coffee.imageUrl}}" alt="{{phone.name}}">
         <a align="right" class="coffee" href="#/coffees/{{coffee.name}}">{{coffee.name}}</a>
-        <p class="coffee">Roast: <strong>{{coffee.roast}}</strong></p>
+        <div class="coffee">Roast: <strong>{{coffee.roast}}</strong></div>
         <p class="coffee">{{coffee.description}}</p>
 </div>
