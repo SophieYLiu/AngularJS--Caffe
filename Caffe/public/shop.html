@@ -1,10 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="caffeApp">
 <head>
 <title>Shop our collection</title>
     <link rel="stylesheet" type="text/css" href="stylesheets/sass/screen.css">
     <script src="javascripts/jquery-3.0.0.js"></script>
     <script src="javascripts/shop.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+    <script src="javascripts/app.module.js"></script>
+    <script src="javascripts/coffee-list/coffee-list.module.js"></script>
+
+    <script src="javascripts/coffee-list/coffee-list.component.js"></script>
 </head>
 
 <nav>
@@ -18,31 +23,37 @@
 </nav>
 
 <body>
-<h2>Here's where you can shop our brews.</h2>
-<section>
-    <div>
-        <img id="img1" src="images/coffeebag.jpg">
-        <p id="p1">$13.00 <strong>Order now</strong></p>
-    </div>
-    <div>
-        <img id="img2" src="images/coffeebags2.jpg">
-        <p id="p2">$16.00 <strong>Order now</strong></p>
-    </div>
-    <div>
-        <img id="img3" src="images/coffeebag3.jpg">
-        <p id="p3">$12.00 <strong>Order now</strong></p>
-    </div>
-    <div>
-        <img id="img4" src="images/coffeebag4.jpg">
-        <p id="p4">$13.50 <strong>Order now</strong></p>
-    </div>
-    <div>
-        <img id="img5" src="images/coffeebag5.jpg">
-        <p id="p5">$17.00 <strong>Order now</strong></p>
-    </div>
-</section>
 
-<hr>
+<coffee-list></coffee-list>
+
 </body>
+
+<!--<body>-->
+<!--<h2>Here's where you can shop our brews.</h2>-->
+<!--<section>-->
+    <!--<div>-->
+        <!--<img id="img1" src="images/coffeebag.jpg">-->
+        <!--<p id="p1">$13.00 <strong>Order now</strong></p>-->
+    <!--</div>-->
+    <!--<div>-->
+        <!--<img id="img2" src="images/coffeebags2.jpg">-->
+        <!--<p id="p2">$16.00 <strong>Order now</strong></p>-->
+    <!--</div>-->
+    <!--<div>-->
+        <!--<img id="img3" src="images/coffeebag3.jpg">-->
+        <!--<p id="p3">$12.00 <strong>Order now</strong></p>-->
+    <!--</div>-->
+    <!--<div>-->
+        <!--<img id="img4" src="images/coffeebag4.jpg">-->
+        <!--<p id="p4">$13.50 <strong>Order now</strong></p>-->
+    <!--</div>-->
+    <!--<div>-->
+        <!--<img id="img5" src="images/coffeebag5.jpg">-->
+        <!--<p id="p5">$17.00 <strong>Order now</strong></p>-->
+    <!--</div>-->
+<!--</section>-->
+
+<!--<hr>-->
+<!--</body>-->
 
 </html>
